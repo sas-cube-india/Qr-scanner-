@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <!--
+    Replace this value with your own web client ID, which you can get from the
+    Google API console when you configure Google Sign-In for your app.
+    -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+</resources>
