@@ -96,7 +96,6 @@ class SettingsFragment : Fragment() {
             binding.userEmail.text = user.email
         } else {
             binding.signInButton.visibility = View.VISIBLE
-            binding:
             binding.userName.visibility = View.GONE
             binding.userEmail.visibility = View.GONE
             binding.signOutButton.visibility = View.GONE
